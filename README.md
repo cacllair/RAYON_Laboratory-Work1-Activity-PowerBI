@@ -44,6 +44,7 @@
      - To focus on the west and east since these regions has the most contributed revenue.
 
   ------------LABORATORY QUESTIONS---------------
+  
   Part A – Technical Questions
 
   1. What are the five columns in the dataset?
