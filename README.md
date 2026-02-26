@@ -1,4 +1,12 @@
-# RAYON_Laboratory-Work1-Activity-PowerBI
+# Power BI Laboratory Activity
+## Submitted By:
+Candy Apple Clair L. Rayon
+## Laboratory Title:
+Laboratory Work [1] – [ Introduction to BI and Power BI]
+## PDF Documentation
+[Click here to view the PDF](https://drive.google.com/file/d/1rnZIRPWHnqRvWl19_oFTxCvNZY59gD2b/view?usp=drive_link)
+
+
 
   -----------Answers--------------
 
